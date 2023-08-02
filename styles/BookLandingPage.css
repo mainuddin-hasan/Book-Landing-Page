@@ -850,3 +850,11 @@ font-weight: 450;
 line-height: 38px;
 letter-spacing: -0.5px;
 }
+.footer h5{
+  color: var(--color-heading);
+  text-align: right;
+  font-size: var(--font-size-sm);
+  font-weight: 450;
+  line-height: 38px;
+  letter-spacing: -0.5px;
+}
